@@ -1,0 +1,6 @@
+.DS_Store
+.env
+generated_images
+history_log.json
+history_rewritten.log
+venv
